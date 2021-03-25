@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Cathy 👋
+
+A recent graduate from GA's Immersive Software Engineering course 💻, currently putting together my final portfolio 💼  and brushing up my vanilla JS🍦!
 
 <!--
 **ketka82uk/ketka82uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
