@@ -1,8 +1,8 @@
 ### Hi, I'm Cathy 👋
 
-A recent graduate from GA's Immersive Software Engineering course 💻, currently putting together my final portfolio 💼  
-and brushing up my vanilla JS🍦!
+A recent graduate from GA's Immersive Software Engineering course 💻, currently learning Wordpress and Gatsby.
 
+Check out my portfolio 💼 here: [cathyjthomas.com](http://cathyjthomas.com)
 <!--
 **ketka82uk/ketka82uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
