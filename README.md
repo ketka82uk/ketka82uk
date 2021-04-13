@@ -1,6 +1,8 @@
 ### Hi, I'm Cathy 👋
 
-A recent graduate from GA's Immersive Software Engineering course 💻, currently learning Wordpress and Gatsby.
+A recent graduate from GA's Immersive Software Engineering course 💻.
+
+Current project: building a Wordpress site using MAMP stack
 
 Check out my portfolio 💼 here: [cathyjthomas.com](http://cathyjthomas.com)
 <!--
