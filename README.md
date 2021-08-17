@@ -1,8 +1,6 @@
 ### Hi, I'm Cathy 👋
 
-A recent graduate from GA's Immersive Software Engineering course 💻.
-
-Current projects: building a Wordpress site using MAMP stack for a friend's portfolio and also building {dev_dict} - my first Jamstack using FaunaDB and Next.js.  
+Currently working as a developer in the Healthcare Industry.
 
 Check out my portfolio 💼 here: [cathyjthomas.com](http://cathyjthomas.com)
 <!--
